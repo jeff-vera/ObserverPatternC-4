@@ -1,0 +1,7 @@
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverPattern\ObserverPattern\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.dll
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverPattern\ObserverPattern\bin\Debug\nunit.framework.dll
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverPattern\ObserverPattern\bin\Debug\nunit.framework.xml
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.dll
+c:\users\jeff\documents\visual studio 2010\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
